@@ -1,4 +1,5 @@
 package b01_introduction_java.Thuc_Hanh;
+
 import java.util.Scanner;
 
 public class DayOfMonth {

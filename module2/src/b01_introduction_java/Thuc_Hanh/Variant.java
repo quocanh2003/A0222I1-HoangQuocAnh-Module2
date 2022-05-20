@@ -16,3 +16,4 @@ public class Variant {
         System.out.println("s= " +s);
     }
 }
+

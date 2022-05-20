@@ -1,5 +1,5 @@
 package b01_introduction_java.Thuc_Hanh;
-
+import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class RetangleProgram {
@@ -16,5 +16,4 @@ public class RetangleProgram {
         float area = width * height;
         System.out.println("Retangle Area is: " +area);
     }
-
 }
