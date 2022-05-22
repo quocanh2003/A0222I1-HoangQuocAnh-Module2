@@ -2,27 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d19d137-7981-4be4-b4af-687a433ff28b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/b02_vonglap_java/Thuc_Hanh/KiemTraSoNguyenTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b02_vonglap_java/Thuc_Hanh/UocChungLonNhat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/A0222I1-HoangQuocAnh-Module2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/Thuc_Hanh/BMI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/Thuc_Hanh/DayOfMonth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/Thuc_Hanh/EquationResolver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/Thuc_Hanh/LeapYearCaculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/Thuc_Hanh/RetangleProgram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/Thuc_Hanh/SystemTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/Thuc_Hanh/Variant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/SystemTime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/Thuc.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_Vonglap/Bai_Tap/Drawing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_Vonglap/Bai_Tap/SoNguyenTo1Den100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_Vonglap/Bai_Tap/TimNsoNguyenToDauTien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_Vonglap/Thuc_Hanh/DrawingMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss2_Vonglap/Thuc_Hanh/InterestRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_Array/Bai_Tap/ArrayCombination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_Array/Bai_Tap/DeleteIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_Array/Bai_Tap/FindMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_Array/Bai_Tap/InsertIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_Array/Thuc_Hanh/ChangeTemperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_Array/Thuc_Hanh/FindElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_Array/Thuc_Hanh/FindMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_Array/Thuc_Hanh/FindMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss3_Array/Thuc_Hanh/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2/b01_introduction_java/Bai_Tap/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2/b01_introduction_java/Bai_Tap/TransferMoney.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2/b01_introduction_java/Thuc_Hanh/BMI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2/b01_introduction_java/Thuc_Hanh/DayOfMonth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2/b01_introduction_java/Thuc_Hanh/EquationResolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2/b01_introduction_java/Thuc_Hanh/LeapYearCaculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2/b01_introduction_java/Thuc_Hanh/RetangleProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2/b01_introduction_java/Thuc_Hanh/SystemTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2/b01_introduction_java/Thuc_Hanh/Variant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2/b02_vonglap_java/Thuc_Hanh/KiemTraSoNguyenTo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2/b02_vonglap_java/Thuc_Hanh/UocChungLonNhat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b01_introduction_java/Bai_Tap/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b01_introduction_java/Bai_Tap/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b01_introduction_java/Bai_Tap/TransferMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b01_introduction_java/Bai_Tap/TransferMoney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/BMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/BMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/DayOfMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/DayOfMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/EquationResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/EquationResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/LeapYearCaculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/LeapYearCaculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/RetangleProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/RetangleProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/SystemTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/SystemTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/Variant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/Variant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b02_vonglap_java/Thuc_Hanh/KiemTraSoNguyenTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss2_Vonglap/Thuc_Hanh/KiemTraSoNguyenTo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b02_vonglap_java/Thuc_Hanh/UocChungLonNhat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss2_Vonglap/Thuc_Hanh/UocChungLonNhat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,20 +67,22 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.KiemTraSoNguyenTo">
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b01_introduction_java.Bai_Tap.Hello" />
+  <component name="RunManager" selected="Application.FindElement">
+    <configuration name="Drawing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss2_Vonglap.Bai_Tap.Drawing" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="b01_introduction_java.Bai_Tap.*" />
+          <option name="PATTERN" value="ss2_Vonglap.Bai_Tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KiemTraSoNguyenTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b02_vonglap_java.Thuc_Hanh.KiemTraSoNguyenTo" />
+    <configuration name="DrawingMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss2_Vonglap.Thuc_Hanh.DrawingMenu" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="b02_vonglap_java.Thuc_Hanh.*" />
+          <option name="PATTERN" value="ss2_Vonglap.Thuc_Hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransferMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="b01_introduction_java.Bai_Tap.TransferMoney" />
+    <configuration name="FindElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss3_Array.Thuc_Hanh.FindElement" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="b01_introduction_java.Bai_Tap.*" />
+          <option name="PATTERN" value="ss3_Array.Thuc_Hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,22 +116,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="FindMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss3_Array.Thuc_Hanh.FindMax" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss3_Array.Thuc_Hanh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss3_Array.Thuc_Hanh.FindMin" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ss3_Array.Thuc_Hanh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.KiemTraSoNguyenTo" />
-        <item itemvalue="Application.TransferMoney" />
-        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.FindElement" />
+        <item itemvalue="Application.FindMax" />
+        <item itemvalue="Application.FindMin" />
+        <item itemvalue="Application.Drawing" />
+        <item itemvalue="Application.DrawingMenu" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +173,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653047173390</updated>
-      <workItem from="1653047174759" duration="1718000" />
+      <workItem from="1653047174759" duration="4930000" />
+      <workItem from="1653224878662" duration="2373000" />
     </task>
     <servers />
   </component>
@@ -141,5 +191,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/module2$FindMax.ic" NAME="FindMax Coverage Results" MODIFIED="1653225730470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ss3_Array.Thuc_Hanh.*</FILTER>
+    </SUITE>
   </component>
 </project>

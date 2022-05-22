@@ -1,4 +1,4 @@
-package b01_introduction_java.Thuc_Hanh;
+package ss1_introduction.Thuc_Hanh;
 
 public class Variant {
     public static void main(String[] args) {

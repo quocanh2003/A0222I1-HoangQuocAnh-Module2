@@ -1,5 +1,4 @@
-package b01_introduction_java.Thuc_Hanh;
-import java.sql.SQLOutput;
+package ss1_introduction.Thuc_Hanh;
 import java.util.Scanner;
 
 public class RetangleProgram {
