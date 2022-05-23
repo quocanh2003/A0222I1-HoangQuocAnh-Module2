@@ -2,7 +2,7 @@ package ss3_Array.Bai_Tap;
 
 import java.util.Scanner;
 
-public class ArrayCombination {
+public class GopMang {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n1,n2,n3,i;

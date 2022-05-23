@@ -2,7 +2,7 @@ package ss3_Array.Bai_Tap;
 
 import java.util.Scanner;
 
-public class FindMin {
+public class GiaTriNhoNhat {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n, i, min;

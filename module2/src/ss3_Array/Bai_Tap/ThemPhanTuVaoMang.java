@@ -2,7 +2,7 @@ package ss3_Array.Bai_Tap;
 
 import java.util.Scanner;
 
-public class InsertIndex {
+public class ThemPhanTuVaoMang {
     public static void main(String[] args) {
         int n, i;
         Scanner scanner = new Scanner(System.in);
