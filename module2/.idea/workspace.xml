@@ -2,44 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d19d137-7981-4be4-b4af-687a433ff28b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss2_Vonglap/Bai_Tap/Drawing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss2_Vonglap/Bai_Tap/SoNguyenTo1Den100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss2_Vonglap/Bai_Tap/TimNsoNguyenToDauTien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss2_Vonglap/Thuc_Hanh/DrawingMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss2_Vonglap/Thuc_Hanh/InterestRate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss3_Array/Bai_Tap/ArrayCombination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss3_Array/Bai_Tap/DeleteIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss3_Array/Bai_Tap/FindMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss3_Array/Bai_Tap/InsertIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss3_Array/Thuc_Hanh/ChangeTemperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss3_Array/Thuc_Hanh/FindElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss3_Array/Thuc_Hanh/FindMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss3_Array/Thuc_Hanh/FindMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss3_Array/Thuc_Hanh/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_class_object/Bai_Tap/ClassFan/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_class_object/Bai_Tap/ClassFan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_class_object/Bai_Tap/Quadratic_Equation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_class_object/Bai_Tap/Quadratic_Equation/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_class_object/Bai_Tap/Stop_Watch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_class_object/Bai_Tap/Stop_Watch/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_class_object/Thuc_Hanh/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss4_class_object/Thuc_Hanh/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/b01_introduction_java/Bai_Tap/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/b01_introduction_java/Bai_Tap/TransferMoney.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/b01_introduction_java/Thuc_Hanh/BMI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/b01_introduction_java/Thuc_Hanh/DayOfMonth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/b01_introduction_java/Thuc_Hanh/EquationResolver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/b01_introduction_java/Thuc_Hanh/LeapYearCaculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/b01_introduction_java/Thuc_Hanh/RetangleProgram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/b01_introduction_java/Thuc_Hanh/SystemTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/b01_introduction_java/Thuc_Hanh/Variant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/b02_vonglap_java/Thuc_Hanh/KiemTraSoNguyenTo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/b02_vonglap_java/Thuc_Hanh/UocChungLonNhat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b01_introduction_java/Bai_Tap/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b01_introduction_java/Bai_Tap/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b01_introduction_java/Bai_Tap/TransferMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b01_introduction_java/Bai_Tap/TransferMoney.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/BMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/BMI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/DayOfMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/DayOfMonth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/EquationResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/EquationResolver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/LeapYearCaculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/LeapYearCaculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/RetangleProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/RetangleProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/SystemTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/SystemTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/Variant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b01_introduction_java/Thuc_Hanh/Variant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b02_vonglap_java/Thuc_Hanh/KiemTraSoNguyenTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss2_Vonglap/Thuc_Hanh/KiemTraSoNguyenTo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/b02_vonglap_java/Thuc_Hanh/UocChungLonNhat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss2_Vonglap/Thuc_Hanh/UocChungLonNhat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2/ss1_introduction/Bai_Tap/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/module2/ss1_introduction/Bai_Tap/TransferMoney.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss1_introduction_java/Bai_Tap/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss1_introduction_java/Bai_Tap/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ss1_introduction_java/Bai_Tap/TransferMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss1_introduction_java/Bai_Tap/TransferMoney.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +30,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ss4_class_object/Thuc_Hanh/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ss4_class_object/Thuc_Hanh/Rectangle.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="29QZG0JG9O4age8gGc4RFwlyqLr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -74,15 +53,24 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
-  <component name="RunManager" selected="Application.FindElement">
-    <configuration name="Drawing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss2_Vonglap.Bai_Tap.Drawing" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ss4_class_object.Thuc_Hanh" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss4_class_object.Bai_Tap.ClassFan.Main" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss2_Vonglap.Bai_Tap.*" />
+          <option name="PATTERN" value="ss4_class_object.Bai_Tap.ClassFan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DrawingMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss2_Vonglap.Thuc_Hanh.DrawingMenu" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss4_class_object.Bai_Tap.Stop_Watch.Main" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss2_Vonglap.Thuc_Hanh.*" />
+          <option name="PATTERN" value="ss4_class_object.Bai_Tap.Stop_Watch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_Array.Thuc_Hanh.FindElement" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss4_class_object.Bai_Tap.Quadratic_Equation.Main" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss3_Array.Thuc_Hanh.*" />
+          <option name="PATTERN" value="ss4_class_object.Bai_Tap.Quadratic_Equation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_Array.Thuc_Hanh.FindMax" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss4_class_object.Thuc_Hanh.Main" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss3_Array.Thuc_Hanh.*" />
+          <option name="PATTERN" value="ss4_class_object.Thuc_Hanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss3_Array.Thuc_Hanh.FindMin" />
+    <configuration name="TransferMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss1_introduction_java.Bai_Tap.TransferMoney" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss3_Array.Thuc_Hanh.*" />
+          <option name="PATTERN" value="ss1_introduction_java.Bai_Tap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindElement" />
-        <item itemvalue="Application.FindMax" />
-        <item itemvalue="Application.FindMin" />
-        <item itemvalue="Application.Drawing" />
-        <item itemvalue="Application.DrawingMenu" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.TransferMoney" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +163,10 @@
       <updated>1653047173390</updated>
       <workItem from="1653047174759" duration="4930000" />
       <workItem from="1653224878662" duration="2373000" />
+      <workItem from="1653302757796" duration="6722000" />
+      <workItem from="1653477950007" duration="326000" />
+      <workItem from="1653478450245" duration="4959000" />
+      <workItem from="1653561492071" duration="1088000" />
     </task>
     <servers />
   </component>
