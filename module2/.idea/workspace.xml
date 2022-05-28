@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d19d137-7981-4be4-b4af-687a433ff28b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ss4_class_object/Bai_Tap/ClassFan/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_class_object/Bai_Tap/ClassFan/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_class_object/Bai_Tap/Quadratic_Equation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_class_object/Bai_Tap/Quadratic_Equation/QuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_class_object/Bai_Tap/Stop_Watch/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_class_object/Bai_Tap/Stop_Watch/StopWatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_class_object/Thuc_Hanh/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ss4_class_object/Thuc_Hanh/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_access_modifier/Bai_Tap/access_modifier/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_access_modifier/Bai_Tap/access_modifier/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_access_modifier/Bai_Tap/practise/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_access_modifier/Bai_Tap/practise/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_access_modifier/Thuc_Hanh/Static_Method/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_access_modifier/Thuc_Hanh/Static_Method/TestStaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_access_modifier/Thuc_Hanh/static_property/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ss5_access_modifier/Thuc_Hanh/static_property/TestStaticProperty.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/ss1_introduction/Bai_Tap/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/module2/ss1_introduction/Bai_Tap/TransferMoney.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss1_introduction_java/Bai_Tap/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss1_introduction_java/Bai_Tap/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ss1_introduction_java/Bai_Tap/TransferMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ss1_introduction_java/Bai_Tap/TransferMoney.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +60,7 @@
       <recent name="ss4_class_object.Thuc_Hanh" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ss4_class_object.Bai_Tap.ClassFan.Main" />
       <module name="module2" />
@@ -117,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransferMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ss1_introduction_java.Bai_Tap.TransferMoney" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ss5_access_modifier.Bai_Tap.practise.Test" />
       <module name="module2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ss1_introduction_java.Bai_Tap.*" />
+          <option name="PATTERN" value="ss5_access_modifier.Bai_Tap.practise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,26 +126,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.TransferMoney" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +161,7 @@
       <workItem from="1653477950007" duration="326000" />
       <workItem from="1653478450245" duration="4959000" />
       <workItem from="1653561492071" duration="1088000" />
+      <workItem from="1653749564956" duration="728000" />
     </task>
     <servers />
   </component>
