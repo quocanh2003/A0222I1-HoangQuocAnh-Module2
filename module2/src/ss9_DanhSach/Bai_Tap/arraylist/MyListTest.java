@@ -1,4 +1,4 @@
-package ss9_DSA.Thuc_Hanh.lop_list;
+package ss9_DanhSach.Bai_Tap.arraylist;
 
 public class MyListTest {
     public static void main(String[] args) {

@@ -1,7 +1,8 @@
-package ss9_DSA.Bai_Tap.linkedlist;
+package ss9_DanhSach.Bai_Tap.linkedlist;
 
 public class Node {
     public Node next;
+    public String key;
     private Object data;
 
 

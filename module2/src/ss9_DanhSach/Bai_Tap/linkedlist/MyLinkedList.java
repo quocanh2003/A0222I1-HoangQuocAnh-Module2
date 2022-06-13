@@ -1,4 +1,4 @@
-package ss9_DSA.Bai_Tap.linkedlist;
+package ss9_DanhSach.Bai_Tap.linkedlist;
 
 public class MyLinkedList<T> {
     private Node head;

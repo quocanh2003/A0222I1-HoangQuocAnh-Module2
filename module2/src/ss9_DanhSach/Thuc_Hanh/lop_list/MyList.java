@@ -1,4 +1,4 @@
-package ss9_DSA.Thuc_Hanh.lop_list;
+package ss9_DanhSach.Thuc_Hanh.lop_list;
 
 import java.util.Arrays;
 

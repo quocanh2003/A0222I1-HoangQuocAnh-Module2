@@ -1,4 +1,4 @@
-package ss9_DSA.Thuc_Hanh.lop_linkedlist;
+package ss9_DanhSach.Thuc_Hanh.lop_linkedlist;
 
 public class MyLinkedList<T> {
     private Node head;

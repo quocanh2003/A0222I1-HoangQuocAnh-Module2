@@ -1,4 +1,4 @@
-package ss9_DSA.Bai_Tap.linkedlist;
+package ss9_DanhSach.Thuc_Hanh.lop_linkedlist;
 
 public class TestMyLinkedList {
     public static void main(String[] args) {
@@ -8,8 +8,8 @@ public class TestMyLinkedList {
         ll.addFirst(12);
         ll.addFirst(13);
 
-        ll.add(4, 9);
-        ll.add(4, 9);
+        ll.add(4,9);
+        ll.add(4,9);
         ll.printList();
     }
 }
