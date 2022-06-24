@@ -1,4 +1,4 @@
-package ss12_thuat_toan_tim_kiem.Bai_tap;
+package Bai_tap;
 
 import java.util.LinkedList;
 import java.util.Scanner;

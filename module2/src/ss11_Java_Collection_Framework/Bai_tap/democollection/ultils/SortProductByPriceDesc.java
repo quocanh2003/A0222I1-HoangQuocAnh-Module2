@@ -1,4 +1,4 @@
-package ss11_Java_Collection_Framework.Bai_tap.democollection.ultils;
+package Bai_tap.democollection.ultils;
 
 import ss11_Java_Collection_Framework.Bai_tap.democollection.entity.Product;
 

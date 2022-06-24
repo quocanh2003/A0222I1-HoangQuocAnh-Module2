@@ -1,4 +1,4 @@
-package ss11_Java_Collection_Framework.Bai_tap.democollection.entity;
+package Bai_tap.democollection.entity;
 
 public class Product {
     private int id;

@@ -1,4 +1,4 @@
-package ss13_sorting_algorithms.Thuc_hanh;
+package Thuc_hanh;
 
 public class BubbleSort {
     static int[] list = {2, 3, 2, 5, 6, 1, -2, 3, 14, 12};

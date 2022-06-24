@@ -1,4 +1,4 @@
-package ss11_Java_Collection_Framework.Bai_tap.democollection.service;
+package Bai_tap.democollection.service;
 
 import ss11_Java_Collection_Framework.Bai_tap.democollection.entity.Product;
 import ss11_Java_Collection_Framework.Bai_tap.democollection.repository.ProductRepository;

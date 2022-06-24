@@ -1,4 +1,4 @@
-package ss13_sorting_algorithms.Thuc_hanh;
+package Thuc_hanh;
 
 import java.util.Scanner;
 
