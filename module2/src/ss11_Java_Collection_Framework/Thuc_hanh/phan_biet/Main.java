@@ -1,4 +1,4 @@
-package ss12_java_collection.Thuc_hanh.phan_biet;
+package ss11_Java_Collection_Framework.Thuc_hanh.phan_biet;
 
 import java.util.HashMap;
 import java.util.HashSet;

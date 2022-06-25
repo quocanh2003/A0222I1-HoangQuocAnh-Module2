@@ -4,7 +4,139 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ad78773-ca03-4e3c-a649-32bd626cf2e6" name="Changes" comment="" />
+    <list default="true" id="0ad78773-ca03-4e3c-a649-32bd626cf2e6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/module2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/module2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/module2/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/module2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/module2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/demo/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/module2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/module2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss10_Stack_Queue/Bai_tap/dao_nguoc_phan_tu/Reverser.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss10_Stack_Queue/Bai_tap/dao_nguoc_phan_tu/Reverser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss10_Stack_Queue/Bai_tap/dem_so_lan_xuat_hien/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss10_Stack_Queue/Bai_tap/dem_so_lan_xuat_hien/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss10_Stack_Queue/Bai_tap/queue/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss10_Stack_Queue/Bai_tap/queue/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss10_Stack_Queue/Thuc_hanh/lop_linkedlist/GenericStackClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss10_Stack_Queue/Thuc_hanh/lop_linkedlist/GenericStackClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss10_Stack_Queue/Thuc_hanh/lop_linkedlist/MyGenericStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss10_Stack_Queue/Thuc_hanh/lop_linkedlist/MyGenericStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss10_Stack_Queue/Thuc_hanh/trien_khai_queue/LinkedListQueueClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss10_Stack_Queue/Thuc_hanh/trien_khai_queue/LinkedListQueueClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss10_Stack_Queue/Thuc_hanh/trien_khai_queue/MyLinkedListQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss10_Stack_Queue/Thuc_hanh/trien_khai_queue/MyLinkedListQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss10_Stack_Queue/Thuc_hanh/trien_khai_queue/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss10_Stack_Queue/Thuc_hanh/trien_khai_queue/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss11_Java_Collection_Framework/Bai_tap/democollection/controller/ProductManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss11_Java_Collection_Framework/Bai_tap/democollection/entity/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss11_Java_Collection_Framework/Bai_tap/democollection/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss11_Java_Collection_Framework/Bai_tap/democollection/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss11_Java_Collection_Framework/Bai_tap/democollection/ultils/SortProductByPriceDesc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss11_Java_Collection_Framework/Thuc_hanh/luu_danh_sach/TestMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss11_Java_Collection_Framework/Thuc_hanh/luu_danh_sach/TestMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss11_Java_Collection_Framework/Thuc_hanh/phan_biet/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss11_Java_Collection_Framework/Thuc_hanh/phan_biet/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss11_Java_Collection_Framework/Thuc_hanh/phan_biet/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss11_Java_Collection_Framework/Thuc_hanh/phan_biet/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss11_Java_Collection_Framework/Thuc_hanh/sap_xep/AgeComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss11_Java_Collection_Framework/Thuc_hanh/sap_xep/AgeComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss11_Java_Collection_Framework/Thuc_hanh/sap_xep/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss11_Java_Collection_Framework/Thuc_hanh/sap_xep/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss11_Java_Collection_Framework/Thuc_hanh/sap_xep/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss11_Java_Collection_Framework/Thuc_hanh/sap_xep/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss12_thuat_toan_tim_kiem/Bai_tap/SearchAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss12_thuat_toan_tim_kiem/Bai_tap/SearchAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss12_thuat_toan_tim_kiem/Thuc_hanh/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss12_thuat_toan_tim_kiem/Thuc_hanh/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss13_sorting_algorithms/Bai_tap/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss13_sorting_algorithms/Bai_tap/InsertionSortByStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss13_sorting_algorithms/Thuc_hanh/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss13_sorting_algorithms/Thuc_hanh/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss13_sorting_algorithms/Thuc_hanh/BubbleSortByStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss13_sorting_algorithms/Thuc_hanh/BubbleSortByStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss13_sorting_algorithms/Thuc_hanh/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss13_sorting_algorithms/Thuc_hanh/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss1_introduction_java/Bai_Tap/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss1_introduction_java/Bai_Tap/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss1_introduction_java/Bai_Tap/TransferMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss1_introduction_java/Bai_Tap/TransferMoney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss1_introduction_java/Thuc_Hanh/BMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss1_introduction_java/Thuc_Hanh/BMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss1_introduction_java/Thuc_Hanh/DayOfMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss1_introduction_java/Thuc_Hanh/DayOfMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss1_introduction_java/Thuc_Hanh/EquationResolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss1_introduction_java/Thuc_Hanh/EquationResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss1_introduction_java/Thuc_Hanh/LeapYearCaculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss1_introduction_java/Thuc_Hanh/LeapYearCaculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss1_introduction_java/Thuc_Hanh/RetangleProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss1_introduction_java/Thuc_Hanh/RetangleProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss1_introduction_java/Thuc_Hanh/SystemTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss1_introduction_java/Thuc_Hanh/SystemTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss1_introduction_java/Thuc_Hanh/Variant.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss1_introduction_java/Thuc_Hanh/Variant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss2_Vonglap/Bai_Tap/Drawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss2_Vonglap/Bai_Tap/Drawing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss2_Vonglap/Bai_Tap/SoNguyenTo1Den100.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss2_Vonglap/Bai_Tap/SoNguyenTo1Den100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss2_Vonglap/Bai_Tap/TimNsoNguyenToDauTien.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss2_Vonglap/Bai_Tap/TimNsoNguyenToDauTien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss2_Vonglap/Thuc_Hanh/DrawingMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss2_Vonglap/Thuc_Hanh/DrawingMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss2_Vonglap/Thuc_Hanh/InterestRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss2_Vonglap/Thuc_Hanh/InterestRate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss2_Vonglap/Thuc_Hanh/KiemTraSoNguyenTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss2_Vonglap/Thuc_Hanh/KiemTraSoNguyenTo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss2_Vonglap/Thuc_Hanh/UocChungLonNhat.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss2_Vonglap/Thuc_Hanh/UocChungLonNhat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss3_Array/Bai_Tap/DeleteIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss3_Array/Bai_Tap/DeleteIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss3_Array/Bai_Tap/GiaTriNhoNhat.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss3_Array/Bai_Tap/GiaTriNhoNhat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss3_Array/Bai_Tap/GopMang.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss3_Array/Bai_Tap/GopMang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss3_Array/Bai_Tap/PhanTuLonNhat.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss3_Array/Bai_Tap/PhanTuLonNhat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss3_Array/Bai_Tap/ThemPhanTuVaoMang.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss3_Array/Bai_Tap/ThemPhanTuVaoMang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss3_Array/Thuc_Hanh/ChangeTemperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss3_Array/Thuc_Hanh/ChangeTemperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss3_Array/Thuc_Hanh/FindElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss3_Array/Thuc_Hanh/FindElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss3_Array/Thuc_Hanh/FindMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss3_Array/Thuc_Hanh/FindMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss3_Array/Thuc_Hanh/FindMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss3_Array/Thuc_Hanh/FindMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss3_Array/Thuc_Hanh/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss3_Array/Thuc_Hanh/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss4_class_object/Bai_Tap/ClassFan/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss4_class_object/Bai_Tap/ClassFan/Fan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss4_class_object/Bai_Tap/ClassFan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss4_class_object/Bai_Tap/ClassFan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss4_class_object/Bai_Tap/Quadratic_Equation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss4_class_object/Bai_Tap/Quadratic_Equation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss4_class_object/Bai_Tap/Quadratic_Equation/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss4_class_object/Bai_Tap/Quadratic_Equation/QuadraticEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss4_class_object/Bai_Tap/Stop_Watch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss4_class_object/Bai_Tap/Stop_Watch/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss4_class_object/Bai_Tap/Stop_Watch/StopWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss4_class_object/Bai_Tap/Stop_Watch/StopWatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss4_class_object/Thuc_Hanh/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss4_class_object/Thuc_Hanh/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss4_class_object/Thuc_Hanh/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss4_class_object/Thuc_Hanh/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss5_access_modifier/Bai_Tap/access_modifier/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss5_access_modifier/Bai_Tap/access_modifier/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss5_access_modifier/Bai_Tap/access_modifier/TestCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss5_access_modifier/Bai_Tap/access_modifier/TestCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss5_access_modifier/Bai_Tap/practise/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss5_access_modifier/Bai_Tap/practise/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss5_access_modifier/Bai_Tap/practise/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss5_access_modifier/Bai_Tap/practise/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss5_access_modifier/Thuc_Hanh/Static_Method/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss5_access_modifier/Thuc_Hanh/Static_Method/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss5_access_modifier/Thuc_Hanh/Static_Method/TestStaticMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss5_access_modifier/Thuc_Hanh/Static_Method/TestStaticMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss5_access_modifier/Thuc_Hanh/static_property/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss5_access_modifier/Thuc_Hanh/static_property/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss5_access_modifier/Thuc_Hanh/static_property/TestStaticProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss5_access_modifier/Thuc_Hanh/static_property/TestStaticProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss6_inheritance/Bai_Tap/Circle_Cylinder/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss6_inheritance/Bai_Tap/Circle_Cylinder/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss6_inheritance/Bai_Tap/Circle_Cylinder/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss6_inheritance/Bai_Tap/Circle_Cylinder/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss6_inheritance/Bai_Tap/Circle_Cylinder/TestCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss6_inheritance/Bai_Tap/Circle_Cylinder/TestCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss6_inheritance/Bai_Tap/point2d_poin3d/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss6_inheritance/Bai_Tap/point2d_poin3d/Point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss6_inheritance/Bai_Tap/point2d_poin3d/Point3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss6_inheritance/Bai_Tap/point2d_poin3d/Point3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss6_inheritance/Bai_Tap/point2d_poin3d/TestPoint2DPoint3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss6_inheritance/Bai_Tap/point2d_poin3d/TestPoint2DPoint3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss6_inheritance/Bai_Tap/point_moveablepoint/MoveablePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss6_inheritance/Bai_Tap/point_moveablepoint/MoveablePoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss6_inheritance/Bai_Tap/point_moveablepoint/MoveablePointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss6_inheritance/Bai_Tap/point_moveablepoint/MoveablePointTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss6_inheritance/Bai_Tap/point_moveablepoint/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss6_inheritance/Bai_Tap/point_moveablepoint/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss6_inheritance/Bai_Tap/point_moveablepoint/PointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss6_inheritance/Bai_Tap/point_moveablepoint/PointTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss6_inheritance/Thuc_Hanh/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss6_inheritance/Thuc_Hanh/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss6_inheritance/Thuc_Hanh/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss6_inheritance/Thuc_Hanh/CircleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss6_inheritance/Thuc_Hanh/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss6_inheritance/Thuc_Hanh/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss6_inheritance/Thuc_Hanh/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss6_inheritance/Thuc_Hanh/RectangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss6_inheritance/Thuc_Hanh/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss6_inheritance/Thuc_Hanh/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss6_inheritance/Thuc_Hanh/ShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss6_inheritance/Thuc_Hanh/ShapeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss6_inheritance/Thuc_Hanh/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss6_inheritance/Thuc_Hanh/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss6_inheritance/Thuc_Hanh/SquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss6_inheritance/Thuc_Hanh/SquareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_colorable/Colorable.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_colorable/Colorable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_colorable/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_colorable/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_colorable/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_colorable/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_colorable/TestSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_colorable/TestSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_resizeable/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_resizeable/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_resizeable/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_resizeable/CircleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_resizeable/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_resizeable/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_resizeable/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_resizeable/RectangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_resizeable/Resizeable.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_resizeable/Resizeable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_resizeable/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_resizeable/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_resizeable/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_resizeable/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_resizeable/SquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Bai_Tap/interface_resizeable/SquareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/animal_interface_edible/AbstractAndInterfaceTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/animal_interface_edible/AbstractAndInterfaceTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/animal_interface_edible/animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/animal_interface_edible/animal/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/animal_interface_edible/animal/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/animal_interface_edible/animal/Chicken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/animal_interface_edible/animal/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/animal_interface_edible/animal/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/animal_interface_edible/edible/Edible.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/animal_interface_edible/edible/Edible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/animal_interface_edible/fruit/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/animal_interface_edible/fruit/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/animal_interface_edible/fruit/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/animal_interface_edible/fruit/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/animal_interface_edible/fruit/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/animal_interface_edible/fruit/Orange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/comparator/CircleComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/comparator/CircleComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/comparator/CircleComparatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/comparator/CircleComparatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/interface_comparable/ComparableCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/interface_comparable/ComparableCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/interface_comparable/ComparableCircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss7_abstractclass_interface/Thuc_Hanh/interface_comparable/ComparableCircleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss8_clean_code/Bai_Tap/TennisGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss8_clean_code/Bai_Tap/TennisGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss8_clean_code/Thuc_hanh/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss8_clean_code/Thuc_hanh/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss8_clean_code/Thuc_hanh/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss8_clean_code/Thuc_hanh/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss8_clean_code/Thuc_hanh/RefactoringChangeNameAndConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss8_clean_code/Thuc_hanh/RefactoringChangeNameAndConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss9_DanhSach/Bai_Tap/arraylist/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss9_DanhSach/Bai_Tap/arraylist/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss9_DanhSach/Bai_Tap/arraylist/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss9_DanhSach/Bai_Tap/arraylist/MyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss9_DanhSach/Bai_Tap/linkedlist/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss9_DanhSach/Bai_Tap/linkedlist/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss9_DanhSach/Bai_Tap/linkedlist/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss9_DanhSach/Bai_Tap/linkedlist/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss9_DanhSach/Bai_Tap/linkedlist/TestMyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss9_DanhSach/Bai_Tap/linkedlist/TestMyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss9_DanhSach/Thuc_Hanh/lop_linkedlist/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss9_DanhSach/Thuc_Hanh/lop_linkedlist/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss9_DanhSach/Thuc_Hanh/lop_linkedlist/TestMyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss9_DanhSach/Thuc_Hanh/lop_linkedlist/TestMyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss9_DanhSach/Thuc_Hanh/lop_list/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss9_DanhSach/Thuc_Hanh/lop_list/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/src/ss9_DanhSach/Thuc_Hanh/lop_list/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/src/ss9_DanhSach/Thuc_Hanh/lop_list/MyListTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +156,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Aykc80JCpyBZ9auPoliydjVQI4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -101,5 +236,16 @@
       <updated>1655989289038</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

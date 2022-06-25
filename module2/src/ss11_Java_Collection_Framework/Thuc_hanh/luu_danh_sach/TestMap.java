@@ -1,4 +1,4 @@
-package ss12_java_collection.Thuc_hanh.luu_danh_sach;
+package ss11_Java_Collection_Framework.Thuc_hanh.luu_danh_sach;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;

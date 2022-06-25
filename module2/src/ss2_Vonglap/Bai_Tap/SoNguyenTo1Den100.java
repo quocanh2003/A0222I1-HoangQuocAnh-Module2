@@ -1,4 +1,4 @@
-package Bai_Tap;
+package ss2_Vonglap.Bai_Tap;
 
 public class SoNguyenTo1Den100 {
     public static void main(String[] args) {
